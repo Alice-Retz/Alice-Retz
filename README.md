@@ -1,3 +1,5 @@
+![Alice Retz, Full-stack Software Engineer](./assets/readmeheader.jpg)
+
 ### Hi there 👋
 
 <!--
