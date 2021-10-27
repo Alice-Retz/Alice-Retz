@@ -1,4 +1,4 @@
-<p align="center">![Alice Retz, Full-stack Software Engineer](./assets/readmeheader.jpg)</p>
+<p align="center"><img src="./assets/readmeheader.jpg" alt="Alice Retz, Full-stack Software Engineer" /></p>
 
 <!--
 **Alice-Retz/Alice-Retz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
