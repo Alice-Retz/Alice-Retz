@@ -5,11 +5,11 @@ I'm a software engineer with a keen eye for design and passion for accessibility
 
 ## Tech Stack
 Javascript // HTML // CSS // Python
----
+
 Node.js // React // Express.js // Jest // Test Driven Development 
----
+
 Beekeeper // Heroku // Netlify // VSCode // Oauth
----
+
 Pair-Programming // Remote Devlopment // UX/UI
----
+
 Adobe Creative Suite
