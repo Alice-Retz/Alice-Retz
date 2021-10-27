@@ -1,6 +1,4 @@
-![Alice Retz, Full-stack Software Engineer](./assets/readmeheader.jpg)
-
-### Hi there 👋
+-> ![Alice Retz, Full-stack Software Engineer](./assets/readmeheader.jpg) <-
 
 <!--
 **Alice-Retz/Alice-Retz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
